@@ -1,0 +1,546 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Abstract of the case of Francis Rockley, Esq. hereunto annexed</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23851</idno>
+            <idno type="STC">Wing A125</idno>
+            <idno type="STC">ESTC R1338</idno>
+            <idno type="EEBO-CITATION">12953959</idno>
+            <idno type="OCLC">ocm 12953959</idno>
+            <idno type="VID">96023</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Abstract of the case of Francis Rockley, Esq. hereunto annexed</title>
+                  <author>Rockley, Francis.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1666?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+                  <note>"The case of Francis Rockley, Esq.": p. 1-8 p.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rockley, Francis.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="case">
+            <div type="abstract">
+               <pb facs="tcp:96023:1"/>
+               <pb facs="tcp:96023:1" rendition="simple:additions"/>
+               <head>An Abſtract of the Caſe of <hi>Francis Rockley <abbr>Eſq</abbr>
+                  </hi> hereunto annexed.</head>
+               <p>THat in <hi>June</hi> 1649. the ſaid <hi>Francis Rockley</hi> being owner and poſſeſſor of the Mannors of <hi>Rockley</hi> and <hi>Worsbrough,</hi> and of divers lands, Tenements and Mills within the ſame, in the County of <hi>York,</hi> upon a Loan of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> made unto him, acknowledged a Statute of 800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> unto one Sir <hi>Roger Bradſhagh,</hi> and one <hi>William Bradſhagh</hi> 
+                  <abbr>Eſq</abbr>
+               </p>
+               <p>And on the firſt of <hi>Feb.</hi> 1652. the ſaid <hi>Franuis Rockley</hi> demiſed unto <hi>Lionel Copley</hi> of <hi>Rotheram</hi> 
+                  <abbr>Eſq</abbr> three acres of ground within the Demeaſne of <hi>Rockley,</hi> to build a Furnace in, which the ſaid <hi>Li<g ref="char:EOLhyphen"/>onel</hi> was to pay for 5 <hi>
+                     <abbr>l.</abbr> per an.</hi> ground rent, and 5 <abbr>
+                     <hi>s</hi>
+                  </abbr> per Tun, by Covenant, for every Tun of Iron that he ſhould Found there; and the ſaid <hi>Lionel Copley</hi> upon agreement ſhortly afterwards, granted unto your Petitioner and his heirs, Liberty, with the ſaid <hi>Lionels</hi> Utenſils annually to Found forty Tun of Iron at the ſaid Furnace.</p>
+               <p>That on the 5th. day of the ſaid <hi>Feb.</hi> upon a Loan of 900 <abbr>
+                     <hi>l.</hi>
+                  </abbr> the ſaid <hi>Francis Rockley</hi> demiſed the Demeaſne of <hi>Rockley,</hi> with the appurtenances, unto <hi>James Brooke</hi> Alderman of the City of <hi>York,</hi> for the Term of 21 years and a half, at the yearly rent of one Pepper-Corn, upon agreement with the ſaid <hi>Brooke,</hi> that the ſaid <hi>Brooke</hi> ſhould re-demiſe the ſame unto him in the name of one <hi>Willi<g ref="char:EOLhyphen"/>am Hayford</hi> the ſaid Mr. <hi>Rockleys</hi> Moenial Servant, for 100 <hi>
+                     <abbr>l.</abbr> per annum,</hi> with a Clauſe of Redemp<g ref="char:EOLhyphen"/>tion of the ſame from the ſaid <hi>Brooke</hi> after the firſt two years, and the ſaid Mr. <hi>Rockley</hi> ac<g ref="char:EOLhyphen"/>knowledged a Statute of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to make good his ſaid Bargain to the ſaid <hi>Brooke.</hi> And the ſaid <hi>Brooke</hi> did re-demiſe the ſame accordingly.</p>
+               <p>That in <hi>Anno</hi> 1655. or thereabouts; the ſaid Mr. <hi>Rockley</hi> made another Deed of the ſame for ſuch like tearm, as ſo, only in the name of the ſaid <hi>Hayford,</hi> wherein he mentioned ſeveral debts payable by the ſaid <hi>Hayford,</hi> amounting to 700 <abbr>
+                     <hi>l.</hi>
+                  </abbr> or thereabouts (beſides what of the ſaid 100 <hi>
+                     <abbr>l.</abbr> per annum</hi> ſhould become payable to the ſaid <hi>Brooke</hi>) the one half of which debts, or thereabouts the ſaid <hi>Francis Rockley</hi> cauſed to be diſcharged about a year after the making of the ſaid later Deed, by the hands of the ſaid <hi>Hayford,</hi> out of other Receipts which he had of the ſaid Mr. <hi>Rock<g ref="char:EOLhyphen"/>leys</hi> in his charge.</p>
+               <p>That the ſaid <hi>Hayford</hi> was only to Act in any of Mr. <hi>Rockleys</hi> ſaid Eſtate as the ſaid Mr. <hi>Rockleys</hi> Servant, and not by any power plac'd in him by either of the ſaid Deeds, as a Truſtee for the ſaid Mr. <hi>Rockley.</hi>
+               </p>
+               <p>That at or about <hi>Michaelmas</hi> 1658. the ſaid Mr. <hi>Rockley</hi> cauſed the ſaid <hi>Hayford</hi> to make a Deed of re-aſſignment of the ſaid Deeds ſo made in his name, unto him the ſaid <hi>Francis.</hi>
+               </p>
+               <p>That the ſaid <hi>Francis Rockley</hi> being to have a Tryal at the Aſſizes held at <hi>York,</hi> in the long Va<g ref="char:EOLhyphen"/>cation 1659. and then reſtrained a Priſoner for Debt in the <hi>Fleet,</hi> and being denied a Writ of <hi>Ha<g ref="char:EOLhyphen"/>beas Corpus</hi> for his Liberty (by the then Commiſſioners of the Great Seal) to attend the ſame, the ſaid Mr. <hi>Rockley</hi> ſent unto the ſaid <hi>Hayford</hi> his Key of a Desk, where certain of his Evidence lay, at <hi>Rockley,</hi> which concerned the ſaid Tryal, with Order to him thereby to manage the ſame; in the ſaid Desk were alſo lodged the ſaid Mr. <hi>Rockleys</hi> Keys which lead to all his other Evidence, and the reſt of his perſonal Eſtate there, which were not immediately in the charge of the ſaid <hi>Hayford</hi> before that time; <hi>viz.</hi> the reſt of his Evidence, Books of Accompts, and Study of Books.</p>
+               <p>That then the ſaid <hi>Hayford,</hi> by Combination with <hi>Margaret</hi> his Siſter, now the Wiſe of <hi>Thomas Weſt,</hi> ſmothered the aboveſaid Deed of re-aſſignment made from him to the ſaid Mr. <hi>Rock<g ref="char:EOLhyphen"/>ley,</hi> and then placed himſelf in poſſeſſion of the ſaid Lands to his own uſe.</p>
+               <p>That the ſaid Confaederates procur'd all the ſaid Mr. <hi>Rockleys</hi> perſonal Eſtate, his Houſhold<g ref="char:EOLhyphen"/>ſtuffe, Stock upon his Ironworks, and other Goods left by the ſaid Mr. <hi>Rockley</hi> in the ſaid <hi>Hay<g ref="char:EOLhyphen"/>fords</hi> charge, to keep or manage for him, to the value of 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and upwards (under pretence unto the Sheriffs Officers, of preſerving the ſame for the ſaid Mr <hi>Rockley</hi> his Maſter) to be le<g ref="char:EOLhyphen"/>vyed by an Execution taken forth upon a Judgement of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> granted by the ſaid Mr. <hi>Rockley,</hi> unto the ſaid <hi>Margaret,</hi> for payment of 50 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and have taken away all the ſame to their own uſe.</p>
+               <p>That he cauſed all the ſaid Mr. <hi>Rockleys</hi> Eſtate placed in his name, in the condition the ſame was in, in his charge, better worth than 500 <hi>
+                     <abbr>l.</abbr> per annum,</hi> over and beſides the Wood growing up<g ref="char:EOLhyphen"/>on the ſame, to be extended at the Suite of the ſaid <hi>Bradſhaghs</hi> at 100 <hi>
+                     <abbr>l.</abbr> per annum,</hi> and then by foul practice ingroſs'd the ſame under the ſaid <hi>Bradſhaghs</hi> at the rate the ſame was ſo undervalued at, to his own uſe, and made void ſuch profits of the ſame, as he could not ſo enjoy.</p>
+               <p>That he pretended to the ſaid <hi>Bradſhagh</hi> (the ſaid Mr. <hi>Rockley</hi> his Maſter being far remote a Priſoner) that he was to make great payments for the ſaid Mr. <hi>Rockley</hi> his Maſter out of the ſaid Lands ſo placed in his name, and would account to the ſaid Mr. <hi>Rockley</hi> for the Overplus, but paid not one penny, ſave twenty pound to one Mrs. <hi>Heſter Bamforth,</hi> which he ſo ordered, as he might both defraud her and the ſaid Mr. <hi>Rockley</hi> of much more by.</p>
+               <pb facs="tcp:96023:2"/>
+               <p>That he cauſed Actions to be charged upon the ſaid Mr. <hi>Rockley</hi> in Priſon for the ſame debts he pretended the ſaid Deed to be made to him for diſcharge of, and with-holding and obſtructing him from each penny of his Eſtate, barbarouſly endeavoured to ſtarve him there, and ſued the ſaid Actions to Outlawry after Judgement, and</p>
+               <p>That when the ſaid Mr. <hi>Rockley</hi> called him to accounts by Bill in <hi>Chancery</hi> for his Eſtate, and Evidence, the ſaid <hi>Hayford</hi> pleaded Outlawries to the ſame, and thereby abated ſuch the ſaid Mr. <hi>Rockleys</hi> proceedings had againſt him.</p>
+               <p>That he forfeited the ſaid re-demiſe made by the ſaid <hi>Brooke</hi> in his name for the ſaid Mr. <hi>Rock<g ref="char:EOLhyphen"/>ley,</hi> by non-payments.</p>
+               <p>And That when the ſaid Mr. <hi>Rockley</hi> in <hi>Jan.</hi> 1665. by the benefit of his Majeſties moſt Graci<g ref="char:EOLhyphen"/>ous Writ of <hi>Habeas Corpus,</hi> attending his affairs in <hi>Yorkſhire,</hi> obtained a Precept to be awarded by the General Seſsions of Peace held at <hi>Doncaſter,</hi> to place him in poſſeſsion (notwithſtanding the practice of the ſaid <hi>Hayford</hi> with his Conſaederates, the ſaid <hi>Margaret,</hi> now the Wiſe of <hi>Thomas Weſt, John Spencer, William Wilkinſon,</hi> and others, by Forgery, Perjury, Maintainance, and Barra<g ref="char:EOLhyphen"/>try, by Arreſt of the ſaid Mr. <hi>Rockley</hi> and his Adhaerents; amidſt his endeavour ſo to repoſſeſs himſelf of his eſtate, to defeat the ſaid Mr. <hi>Rockley</hi> of the ſame) the ſaid Confaederates <hi>Hayford</hi> and <hi>Spencer,</hi> had obtained the ſaid <hi>Brooke</hi> to grant the Demiſe of the ſaid Demeaſne of <hi>Rockley</hi> ſo forfeited to him as above, unto the ſaid <hi>William Wilkinſon,</hi> and one <hi>Robert Beard,</hi> (yet ſo as the ſame ſhould appear not to be forfeited, if occaſion ſhould ſo require) and to Aſſigne the ſaid Sta<g ref="char:EOLhyphen"/>tute of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for making the ſame good unto them, to the ſaid <hi>Hayfords</hi> uſe (notwithſtanding the ſaid Mr <hi>Rockleys</hi> Applications made to the ſaid <hi>Brooke</hi> before the ſaid Confaederates) upon ſecure terms to the ſaid <hi>Brooke</hi> to grant the ſame unto him, and though all ſuch pretenſions alſo are ſatisfied (which the ſaid Mr. <hi>Rockleys</hi> eſtate is kept from him upon) then by moſt ſiniſter practices, the ſaid Confaederates endeavoured upon the ſaid Statute of 1800, as well to evict what is payable by the ſaid <hi>Lionell Copley</hi> only by Covenant unto the ſaid Mr. <hi>Rockley</hi> (and there<g ref="char:EOLhyphen"/>fore not extendible) as the reſt of the ſaid Mr. <hi>Rockleys</hi> eſtate, from him, by ſupply thereof to ac<g ref="char:EOLhyphen"/>cord with the ſaid Mr. <hi>Rockleys</hi> Creditors, by means of his own eſtate, to purchaſe the ſame from him.</p>
+            </div>
+            <div type="petition">
+               <head>To the High and Honourable the Houſe of Peers in Parliament Aſſembled. <hi>The Humble Petition of</hi> Francis Rockley, <hi>of</hi> Rockley, <hi>in the County of</hi> York <abbr>Eſq</abbr> 
+                  <hi>now Priſoner in the <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </hi>
+               </head>
+               <opener>Sheweth,</opener>
+               <p>
+                  <hi>THat your Petitioners most humble Suite is (being to be relieved againſt ſeveral most horrid pra<g ref="char:EOLhyphen"/>ctiſes, cheats, and combinations exerciſed upon your Petitioner, by means of an Impriſonment for debts contracted upon him by his Fathers and his own Loyalty, by Confaederacy of one</hi> William Hayford (<hi>a <gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>te Maenial Servant of your Petitioners held with</hi> Margaret <hi>his Siſter, now the wife of</hi> Thomas Weſt, John Spencer, James Brooke, William Wilkinſon, <hi>and</hi> Robert Beard, <hi>whereby your Petitioner is and hath been after a most barbarous manner bereft of his Liberty, and of an Eſtate of</hi> 850 <abbr>
+                     <hi>l.</hi>
+                  </abbr> per annum, <hi>and of most of the ſame, for most of the time of eight years laſt paſt, and of a great perſonal Eſtate, to the hazard of anutter ruine upon your Petitioner and his Family, of very great Antiquity; and having no relief at Law againſt him for the ſame, as by the annexed Caſe more fully appears, nor at equity of Law for what he is thus bereft of, the ſaid</hi> Hayford <hi>having plead<g ref="char:EOLhyphen"/>ed Outlawries unto a Bill which your Petitioner exhibited againſt him for the ſame in Chancery, and thereby abated your ſaid Petitioners proceedings.) That this moſt Honourable Houſe will cauſe all the ſaid Confaederates to appear in this Court, there to anſwer the Petitioners Caſe exhibited against them, and will cauſe them to produce all the ſeveral Evidences which each of them have claim'd any of your Petiti<g ref="char:EOLhyphen"/>oners Eſtate real or perſonalby, and all your Petitioners other Evidence, Bonds, or of what nature ſoe<g ref="char:EOLhyphen"/>ver, in their or any of their hands, and will stay the ſaid Confaederates from committing any more waſte in your Petitioners Eſtate, and from taking away the product of what they have committed, and will ſtay entrance of Judgement upon any Verdict obtained by them againſt any of your Petitioners Te<g ref="char:EOLhyphen"/>nants, the laſt Aſsizes held at</hi> York, <hi>till the hearing and determination of this cauſe; and will give order for the Right Honourable the Lord Keeper of the Great Seal of</hi> England, <hi>to award his Majeſties Writ of</hi> Ne Exeat Regnum, <hi>to ſecure the ſaid</hi> Hayfords <hi>appearance before this Court (the ſaid</hi> Hay<g ref="char:EOLhyphen"/>ford <hi>having committed ſo many, and ſo enormous miſdemeanors, and engrofs'd ſo great ſums of money out of your Petitioners Estate to his own uſe, that it must be reuſonably apprehended, the ſaid</hi> Hayford <hi>intends to withdraw himſelf, and avoid queſtion.) And that this moſt Honourable Houſe will be plea<g ref="char:EOLhyphen"/>ſed further to Order the ſaid Right Honourable the Lord Keeper to award his Majesties most gracious Writ of</hi> Habeas Corpus <hi>to the  <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>  for your Petitioners Liberty to attend the proſecution of this cauſe till the ſame be ended; and that, upon a full hearing, ſuch ſatisfaction and reparation may be given your Petitioner for his damages, loſſes, and ſufferings; and ſuch puniſhments may be inflicted upon the Delinquents, as the Justice and Merits of your Petitioners cauſe ſhall require.</hi>
+               </p>
+               <closer>And your Petitioner, as bound, ſhall Pray, <hi>&amp;c.</hi>
+               </closer>
+            </div>
+            <div type="body_of_case">
+               <pb n="1" facs="tcp:96023:2" rendition="simple:additions"/>
+               <head>The Caſe OF Francis Rockley <abbr>Eſq</abbr>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">F</seg>Rancis Rockley</hi> being ſeized in <hi>June</hi> 1649 in his Demeaſne as of Fee of and in the Mannor of <hi>Rockley,</hi> with the rights, members, and appurtenances thereof, and of the Capital Meſſuage <hi>Rockley,</hi> and the Demeaſne Lands thereof, and divers Meſſu<g ref="char:EOLhyphen"/>ages, Lands, Tenements, and Hereditaments, Mills, Woods, Underwoods, and Mines, within the Pariſhes of <hi>Silkeſton</hi> and <hi>Darfield</hi> in the County of <hi>York,</hi> to the ſaid Mannor belonging, then much leſſened in their value by the injury of the late commotions (<hi>Robert Rockley,</hi> Father of the ſaid <hi>Francis,</hi> during his liſe time, and the reft of his Fa<g ref="char:EOLhyphen"/>mily throughout all the ſaid troubles having been ſolely ingaged in the Service of his Majeſty King <hi>Charles</hi> the Firſt, againſt the late pretended Parliament) and being rightfully poſſeſſed of the Man<g ref="char:EOLhyphen"/>nor of <hi>Worsbrough,</hi> and lawfully ſeized of and in divers Meſſuages, Lands, Tenements, Mill<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Woods, Underwoods and Mines, part and parcel of the Mannor of <hi>Worsbrough,</hi> in <hi>Darfield,</hi> afore<g ref="char:EOLhyphen"/>ſaid, which laſt mentioned premiſes in <hi>Worsbrough</hi> aforeſaid (beſides the Mines) were then in poſſeſſion and Reverſion of the yearly value of 400 <hi>
+                     <abbr>l.</abbr> per annum</hi> and upwards.</p>
+               <p>The ſaid <hi>Francis Rockley</hi> being of all the ſaid premiſes ſo lawfully feized or poſſeſſed, and be<g ref="char:EOLhyphen"/>ing heir ar Law, and Executor of the ſaid <hi>Robert Rockley</hi> his Father (the ſaid <hi>Robert Rockley</hi> the Father dying in or about <hi>November</hi> 1644) and being become indebted unto divers and ſundry perſons in ſeveral great ſums of Money for payment of portions to his Siſters, and contracted up<g ref="char:EOLhyphen"/>on him by his Fathers and his own Loyalty to his ſaid Soveraign.</p>
+               <p>The ſaid <hi>Francis Rockley</hi> towards the payment and ſatisfaction of his Compoſition with the late pretended Parliament for his eſtate (ſequeſtred from him for his ſaid Loyalty) after the eſpecial direction of his ſaid Majeſty King <hi>Charles</hi> the Firſt, near the clauſe of his days, given unto the ſaid <hi>Francis Rockley</hi> ſo to do, and for and towards payment and ſatisfaction of ſome of his debts; and for the better managery of his eſtate ſo laid waſte as above.</p>
+               <p>About the 8th. day of <hi>June</hi> 1649. the ſaid <hi>Francis Rockley</hi> acknowledged a Statute ſtaple of 800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> before the then Lord Chief Juſtice of <hi>England,</hi> to the uſe of Sir <hi>Roger Bradſhagh</hi> of <hi>Haigh</hi> in the County of <hi>Lancaſter,</hi> and <hi>William Bradſhagh</hi> 
+                  <abbr>Eſq</abbr> upon the loan of 400 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>ſterling,</hi> made to the ſaid <hi>Francis</hi>  
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  And</p>
+               <p>On the 5th. day of <hi>February</hi> 1652. the ſaid <hi>Francis Rockley</hi> did borrow of one <hi>James Brooke</hi> Al<g ref="char:EOLhyphen"/>derman of the City of <hi>York,</hi> the ſum of 900 <abbr>
+                     <hi>l.</hi>
+                  </abbr> in money upon agreement that the ſaid <hi>Francis Rock<g ref="char:EOLhyphen"/>ley</hi> ſhould demiſe</p>
+               <list>
+                  <item>
+                     <hi>1ſt. The Capital Meſſuage or Mannor houſe of</hi> Rockley <hi>aforeſdid, with all the Scite and Cir<gap reason="illegible" resp="#OXF" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> of the ſame, Barnes, Staples, and other Out-howſes, Buildings, Yards, Cloſes, Orchards, Gar<g ref="char:EOLhyphen"/>dens, Grounds and Eaſements contained within the ſaid Scite and Circuit, together with the Demeaſne Lands, Arable Meadow and Paſture, Woods and <g ref="char:V">Ʋ</g>nderwoods, conte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ning by eſtima<g ref="char:EOLhyphen"/>mation</hi> 550 <hi>Acres and upwards, better worth than</hi> 250 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per annum  <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>  
+                     <hi>And</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. All the appurtenances to the ſame,</hi> viz. <hi>The Mines, Streams and Ironworks within the ſame, (better worth than</hi> 300 <abbr>l.</abbr> per annum, <hi>Of a more uſeful and ſecure Revenue than any Rent he had, in the condition he had moulded the ſame into, over and above</hi> 5 ſhills. <hi>per Tun payable by</hi> Lionel Copley <hi>of</hi> Rotheram <abbr>
+                        <hi>Eſq</hi>
+                     </abbr> 
+                     <hi>(not lyable unto the ſaid</hi> Brook <hi>by any Grant or Covenants made with him, as herein after appears) unto the ſaid</hi> James Brooke <hi>his Ea<g ref="char:EOLhyphen"/>ecutors
+<pb n="2" facs="tcp:96023:3"/>and Aſſigns, for the Tearm of One and Twenty years and a half, to begin from the Firſt day of</hi> January <hi>then laſt paſt, under the Yearly Rent of a Pepper-Corn  <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>  And</hi>
+                  </item>
+                  <item>
+                     <hi>3ly. That the ſaid</hi> James Brooke <hi>ſhould forthwith then after make a Re-demiſe of the ſaid Mannor houſe and premiſes, during the ſaid Tearm of One and Twenty years and a half, unto the ſaid</hi> Francis Rockley <hi>in the name of ſuch perſon as the ſaid</hi> Francis Rockley <hi>ſhould nominate and appoint to take the ſame, under the yearly rent of</hi> 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 
+                     <hi>to be paid unto the ſaid</hi> James Brooke <hi>and his Aſſigns, as aforeſaid, and not otherwiſe.</hi>
+                  </item>
+               </list>
+               <p>The ſaid <hi>Francis Rockley</hi> according to, and in purſuance of the ſaid agreement by his Indenture bearing date the ſaid 5th. day of <hi>February</hi> 1652.</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Did demiſe the ſaid Mannor houſe of</hi> Rockley, <hi>and other the before-mentioned premiſes, with their appurtenances, for and in conſideration of the ſaid ſum of</hi> 900 <abbr>
+                        <hi>l.</hi>
+                     </abbr> 
+                     <hi>unto the ſaid</hi> James Brooke <hi>his Executors and Aſſigns, for the term of</hi> 21 <hi>years and a half; at a Pepper-Corn rent  <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>  And</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. The ſaid</hi> James Brooke <hi>did alſo in purſuance of the ſaid agreement by his Indenture bearing date the</hi> 25th. <hi>day of the ſaid Month of</hi> February, <hi>Re-demiſe the ſaid Mannor houſe and premiſes by the appointment of the ſaid</hi> Francis Rockley, <hi>unto one</hi> William Hayford, <hi>a Moenial Servant of the ſaid</hi> Francis Rockley <hi>for the ſaid whole Term of</hi> 21 <hi>years and a half, under the yearly rent of</hi> 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per annum, <hi>to be paid by the ſaid</hi> William Hayford <hi>unto the ſaid</hi> James Brooke <hi>his Executors and Aſſigns, for and during the ſaid whole Term of</hi> 21 <hi>years and a half, at ſuch dayes as in the ſaid Indenture of Demiſe was and is expreſſed.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>In which ſaid Indenture of Re-demiſe it was agreed upon by the ſaid</hi> James Brooke, <hi>that if the ſaid</hi> William Hayford, <hi>his Executors or Aſſigns, or any of them, ſhould within two years after the ſaid Re-demiſe, or at any time then after, pay unto the ſaid</hi> James Brooke, <hi>the ſaid ſum of</hi> 900 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 
+                  <hi>together with all ſuch Rents and arrearages of Rents as ſhould grow due in the mean time; That then the ſaid</hi> William Hayford <hi>his Executors and Aſſignes ſhould hold all the ſaid Re-demiſed premiſes, acquitted and diſcharged of and from all Rents and other payments whatſoever unto the ſaid</hi> James Brooke <hi>his Executors, Adminiſtra<g ref="char:EOLhyphen"/>tors, and Aſſigns.</hi>
+               </p>
+               <p>The ſaid <hi>Francis Rockley</hi> on the ſaid 5th. day of <hi>February</hi> acknowledged a Statute Marchant of the ſum of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to the uſe of the ſaid <hi>Brooke,</hi> which was to be Defeizanced that the ſaid <hi>Fran<g ref="char:EOLhyphen"/>cis Rockley</hi> ſhould make good the ſaid Demiſe upon the ſaid tearms they had agreed upon, and was Defeizanced ſo accordingly.</p>
+               <p>And the ſaid <hi>William Hayford</hi> did by a Deed under his Hand and Seal, bearing date the ſaid 25th day of <hi>February</hi> 1652. Declare that the ſaid Re-demiſe was taken only in his Name, but he was to take no benefit, nor make any uſe thereof to himſelf.</p>
+               <p>And notwithſtanding ſuch Re-demiſe was made in the name of the ſaid <hi>Hayford,</hi> yet the ſaid <hi>Francis Rockley</hi> continued in poſſeſſion of the Lands Leaſed, and was holden to be the law<g ref="char:EOLhyphen"/>full Occupier thereof.</p>
+               <p>That on or about the firſt day of <hi>February</hi> 1652. the ſaid <hi>Francis Rockley</hi> (before he granted the aforeſaid Leaſe to the ſaid <hi>Brooke</hi>) Demiſed unto one <hi>Lyonel Copley</hi> of <hi>Rotheram</hi> in the County of <hi>York,</hi> (in the name of one <hi>Robert Dawes</hi> of <hi>Rotheram,</hi> his Executors and Aſſignes) three Acres of Land lying in a Cloſe called the <hi>Carr,</hi> within the Demeaſne of <hi>Rockley,</hi> with all Streams of water coming into the ſame, with free liberty to build a Furnace there for the founding of Raw Iron within the ſame: And alſo the Iron-ſtone Mine within the ſame, for the Term of 21 years, to commence the 1ſt. of <hi>May</hi> 1653.</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Reſerving a ground rent of</hi> 5 <abbr>l.</abbr> per annum, <hi>to be paid him by the ſaid</hi> Dawes, <hi>his Executors, Adminiſtrators and Aſſigns, for the ſaid</hi> 3 <hi>Acres of ground.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. And upon Covenant with the ſaid</hi> Robert Dawes <hi>and the ſaid</hi> Lyonel Copley.
+<list>
+                        <item>
+                           <hi>1ſt. That the ſaid</hi> Dawes <hi>ſhould build a Furnace for the working of Raw Iron within the ſaid three Ares, before the feaſt of St.</hi> Martin <hi>the Biſhop in Winter</hi> 1663. <hi>And Second<g ref="char:EOLhyphen"/>ly, That</hi>
+                        </item>
+                        <item>
+                           <hi>2ly. The ſaid</hi> Robert Dawes, <hi>his Executors, Adminiſtrators and Aſſigns, ſhould pay unto the ſaid</hi> Francis Rockley, <hi>his Heirs, Executors, Adminiſtrators or Aſſigns</hi> 5 <abbr>s.</abbr> per Tun <hi>for every Tun of Raw Iron that the ſaid</hi> Dawes <hi>his Executors, Adminiſtrators or Aſſigns ſhould ſo found at the ſaid Furnace.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <pb n="3" facs="tcp:96023:3" rendition="simple:additions"/>
+               <p>The ſaid <hi>Robert Dawes</hi> aſſigned the grant of the ſaid 3 Acres to the ſaid <hi>Lyonel Gopley;</hi> and that year they or one of them did build the ſaid Furnace, and pay and perform what they had agreed upon to perform.</p>
+               <p>Shortly after the ſaid grant of the ſaid 3 Acres of ground unto the ſaid <hi>Lyonel Copley,</hi> as above, (according to an agreement made betwixt the ſaid <hi>Lyonel</hi> and the ſaid <hi>Francis Rockley</hi> for that pur<g ref="char:EOLhyphen"/>poſe) the ſaid <hi>Lyonel Copley</hi> granted unto the ſaid <hi>Francis Rockley</hi> and his Heirs, by Deed, free li<g ref="char:EOLhyphen"/>berty of Founding ſo many Tun of Raw Iron unto his own uſe yearly at the ſaid Furnace, as the ſaid <hi>Francis Rockley</hi> could Found with Eighty Dozen of Char-coal, and a proportionable quantity of Iron-ſtone for the ſame, and to have the benefit of all the ſaid <hi>Lyonel Copley</hi>'s Utenſils at the ſame Furnace for Founding of the ſame. And according to the ſaid Agree<g ref="char:EOLhyphen"/>ment the ſaid <hi>Francis Rockley</hi> did every year Found there 40 Tuns of Raw Iron, or upwards, to his own uſe, till about the year 1660. the ſaid <hi>Hayford</hi> indeavoured by practice to defeat him of the ſame.</p>
+               <p>And at or about <hi>Michaelmas</hi> 1655. the ſaid <hi>Francis Rockley</hi> (having many Sutes commenced againſt him in <hi>Chancery,</hi> as Executor to <hi>Robert Rockley,</hi> the ſurviving Truſtee, of an eſtate of one <hi>Francis Burdett</hi> 
+                  <abbr>Eſq</abbr> and fearing the purſute of ſome of his Creditors) the ſaid <hi>Francis Rockley</hi> be<g ref="char:EOLhyphen"/>ing for his defence in the ſaid Sutes, to leave his abode at <hi>Rockley,</hi> and to repair to, and to his great charge, to reſide at <hi>London;</hi> and thereby diſabled to ſatisfie the ſame, ſo readily as was ex<g ref="char:EOLhyphen"/>pected; the ſaid <hi>Francis Rockley</hi> made unto the ſaid <hi>Hayford</hi> another Deed of the Mannor houſe of <hi>Rockley,</hi> and of the Demeaſne thereof, with the appurtenances mentioned in the Deed made un<g ref="char:EOLhyphen"/>to the ſaid <hi>Brooke,</hi> and mentioned in the ſaid Deed alſo, over and beſides the 100 <hi>
+                     <abbr>l.</abbr> per annum,</hi> payable unto the ſaid <hi>Brooke,</hi> certain of the ſaid debts, to the value of 700 <abbr>
+                     <hi>l.</hi>
+                  </abbr> principal moneys, or thereabouts (which the ſaid <hi>Francis Rockley</hi> had otherwiſe ſecured) to be payable by the ſaid <hi>Hay<g ref="char:EOLhyphen"/>ford</hi> by vertue of the ſaid later Deed, occaſionally, the better to enable the ſaid <hi>Francis Rockley</hi> to pay the ſame, and his other debts, againſt any incumbrance which might elſe befall his Eſtate, and which might obſtruct him in payment of the ſame.</p>
+               <p>And the ſaid <hi>Francis Rockley</hi> at his departure ſo to reſide at <hi>London,</hi> alſo committed all his perſo<g ref="char:EOLhyphen"/>nal eſtate in and about the ſaid Manſion houſe <hi>Rockley,</hi> and upon the Demeaſne thereof, and Iron<g ref="char:EOLhyphen"/>works to be kept and managed by the ſaid <hi>Hayford,</hi> as the ſeveral natures of the ſame required.</p>
+               <p>But notwithſtanding ſuch later Deed made by the ſaid <hi>Francis Rockley</hi> unto the ſaid <hi>Hayford,</hi> and that he had alſo committed his ſaid perſonal eſtate unto the charge of the ſaid <hi>Hayford,</hi> yet the ſaid <hi>Francis Rockley</hi> continued in the actual poſſeſſion of the ſaid Lands mentioned in the ſame, and of the perſonal eſtate ſo committed to the care of the ſaid <hi>Hayford,</hi> to be kept and managed by him, and was holden the lawfull Occupier of the ſame. And the ſaid <hi>William Hayford</hi> was not to diſpoſe of any part of the ſaid <hi>Francis Rockley</hi>'s Eſtate, real or perſonal, but as Servant to the ſaid <hi>Francis Rockley,</hi> and according to the direction of the ſaid <hi>Francis;</hi> and for ſeveral years after ma<g ref="char:EOLhyphen"/>king of the ſaid later Deed, and after the charge of the perſonal eſtate of the ſaid <hi>Francis</hi> ſo com<g ref="char:EOLhyphen"/>mitted to him, the ſaid <hi>Hayford</hi> did continue ſo to do and obſerve the ſame.</p>
+               <p>And the ſaid <hi>Francis Rockley</hi> diſcharged above 300 <abbr>
+                     <hi>l.</hi>
+                  </abbr> of the ſaid 700 <abbr>
+                     <hi>l.</hi>
+                  </abbr> mentioned to be payable by the ſaid laſt recited Deed (within a year after the Deed ſo made, or thereabouts) by his Or<g ref="char:EOLhyphen"/>der unto the ſaid <hi>Hayford,</hi> who had alſo other receipts of the ſaid <hi>Francis Rockleys,</hi> out of which he diſcharged moſt of the ſame.</p>
+               <p>At or about <hi>Michaelmas</hi> 1658. the ſaid <hi>Francis Rockey</hi> (Leaſing out ſome of his ſaid Lands, ſo placed in the ſaid <hi>Hayfords</hi> name, as above, and parting with ſome of his ſtock upon the ſame) cauſed the ſaid <hi>Hayford</hi> to make a Deed of Re-aſſignment of the ſaid Deeds (whereby the ſame were ſo placed in his name) to the ſaid <hi>Rockley.</hi>
+               </p>
+               <p>In the Long Vacation 1659. the ſaid <hi>Francis Rockley,</hi> being to have a Tryal at Law, at the Aſſizes to be then held at <hi>York,</hi> being become a Priſoner in the <hi>Fleet,</hi> in Execution for Debt, and denyed by the then Commiſſioners of the Broad Seal of <hi>England,</hi> the benefit of the Writ of <hi>Habeas Corpus</hi> to attend the ſame; and the Cauſe then to be tryed, being to be managed by a Deed made for the ſaid Mr. <hi>Rockley</hi> in the ſaid <hi>Hayfords</hi> name, the ſtate of which the ſaid <hi>Hayford</hi> was well knowing of, having been acquainted with the ſame by the ſaid Mr. <hi>Rockley</hi> his Maſter (and thereby the fitteſt to manage the ſaid Tryal) The ſaid Mr. <hi>Rockley</hi> ſent down the Key of a Desk unto the ſaid <hi>Hayford</hi> being at his houſe <hi>Rockley,</hi> with directions to him to take out ſuch Eviden<g ref="char:EOLhyphen"/>ces as concerned him at the Tryal, and to manage the ſame.</p>
+               <pb n="4" facs="tcp:96023:4"/>
+               <p>In the ſaid Desk were
+<list>
+                     <item>
+                        <hi>1ſt. Other of the ſaid</hi> Francis Rockleys <hi>Evidences lodged.</hi>
+                     </item>
+                     <item>
+                        <hi>2ly. Some of his Books of Accounts  <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>  And</hi>
+                     </item>
+                     <item>
+                        <hi>3ly. Keys which did lead unto his Study of Books, and unto all his other Evidence, Books of Accounts, and perſonal Eſtate which were at</hi> Rockley, <hi>and not before committed to the ſaid</hi> Hayfords <hi>charge; None of which the ſaid</hi> Francis Rockley <hi>could ever yet procure into his hands again, nor any of his perſonal eſtate which he had committed to the ſaid</hi> Hayford <hi>to keep, or manage for him, as above.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>And the more colourably to ingroſs the ſame to his own uſe.</p>
+               <p>In or about the beginning of <hi>Auguſt</hi> 1661 the ſaid <hi>Hayford</hi> by combination with <hi>Margaret Hay<g ref="char:EOLhyphen"/>ford</hi> his Siſter, cauſed <hi>William Wilkinſon</hi> an Attorney (one of the Confederates herein after mentioned) to take out Execution forth of his Majeſties Court of <hi>Common Pleas,</hi> againſt the Goods of the ſaid <hi>Francis Rockley,</hi> and thereby (unknown to the ſaid Mr. <hi>Rockley,</hi> until of long time after, he being reſtrained a Priſoner at <hi>London</hi>) levied of the ſaid <hi>Francis Rock<g ref="char:EOLhyphen"/>leys</hi> Goods [as the ſaid Mr. <hi>Rockley</hi> is adviſed] to the value of 1000 <abbr>
+                     <hi>l.</hi>
+                  </abbr> and upwards upon a Judgement on a Bond of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for the payment of 50 <abbr>
+                     <hi>l.</hi>
+                  </abbr> entred into by the ſaid <hi>Francis Rockley</hi> to the ſaid <hi>Margaret</hi> [the Intereſt thereof moſt probably ſatisfied till that time] pro<g ref="char:EOLhyphen"/>ducing then a Catalogue of all his Maſters Goods in his charge, unto the Sheriffs Officers, rated after the value that the ſaid Execution amounted unto, requeſting the ſaid Bayliffs to aſſign the ſame to his ſaid Siſter at ſuch a rate, under pretence that it was to ſecure them for his ſaid Maſter from other Executions And</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Defrauded the ſaid Bayliffs of any Counterpart of ſuch Catalogue, having obtained them ſo to aſſign the ſame without a Counterpart, upon promiſe only ſhortly after to give them one, but never would perform the ſame And</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. Ever after that time denied that he had any thing of the ſaid Mr.</hi> Rockleys <hi>his Maſters in his hands, unto ſuch perſons as Mr.</hi> Rockley <hi>had impowered to take accounts of, and receive the ſame from him, and give diſcharges unto him.</hi>
+                  </item>
+               </list>
+               <p>And the ſaid <hi>William Hayford</hi> [from the time he had ſo ingroſſed the ſaid <hi>Francis Rockleys</hi> his Maſters Evidence as above] alſo with-held the growth and other profits of his ſaid Maſters real Eſtate intruſted in his name, paying only the 100 <hi>
+                     <abbr>l.</abbr> per annum</hi> to the ſaid <hi>Brooke</hi> thereout, till he could uſe ſuch means to defeat him of the ſame, as in time to ingroſs the ſame to himſelf; and in order to ingroſs the ſame more ſucurely to his own uſe, the ſaid <hi>Hayford</hi> in or about the beginning of <hi>March, Anno</hi> 1660. by Non-payment of Intereſt to ſome of the Creditors of the ſaid <hi>Francis Rockley</hi>
+               </p>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> Then cauſed the Lands of the ſaid <hi>Francis Rockley</hi> his Maſter, intruſted in his name as a<g ref="char:EOLhyphen"/>bove [upon the aboveſaid Statute acknowledged to the ſaid Sir <hi>Roger Bradſhagh</hi> and <hi>William Bradſhagh</hi>] to be extended at 100 <hi>
+                        <abbr>l.</abbr> per annum,</hi> by his great intereſt with one <hi>Robert Waller,</hi> an Atturney at Law, imployed by the ſaid <hi>Bradſhagh's</hi> to extend the ſame.</item>
+                  <item>
+                     <hi>2ly.</hi> Procured the Inquiſition into the ſaid Lands taken at the ſute of the ſaid <hi>Bradſhaghs</hi> for extending the ſame to bear date before another Inquiſition taken at the ſute of one <hi>Gil<g ref="char:EOLhyphen"/>bert Cowper</hi> [though the ſame was taken after the Inquiſition taken at the Sute of the ſaid <hi>Cowper.</hi>]</item>
+               </list>
+               <p>Thereby to come into poſſeſſion of the ſaid Lands ſo extended at the ſaid undervalue the ſame were extended at, without obſtruction upon the ſaid Statute acknowledged to the ſaid <hi>Bradſhaghs,</hi> being of eſpecial intereſt in the ſaid <hi>Waller,</hi> the ſaid Sir <hi>Roger Bradſhagh</hi>'s Agent, who might diſpoſe him into the ſame, upon the ſaid Statute; the only obſtruction which could be given at Law to the ſaid <hi>Hayfords</hi> enjoyment of the ſaid Demeaſne of <hi>Rockley,</hi> with the appurtenances, to his own uſe; by means of the Title unto the ſame, placed in his name from the ſaid <hi>Brooke</hi> upon payment of the aforeſaid rent of 100 <hi>
+                     <abbr>l.</abbr> per annum</hi> unto the ſaid <hi>Brooke</hi> [after he had ſo ingroſ<g ref="char:EOLhyphen"/>ſed the ſaid <hi>Francis Rockleys</hi> his Maſters Evidence, as above] being treacherouſly diſpoſed ſo to enjoy the ſame.</p>
+               <p>The ſaid <hi>Francis Rockley</hi> being then a Priſoner, and having Information of the miſcarriages of the ſaid <hi>William Hayford</hi> in his ſervice [which he was imployed in for the ſaid <hi>Francis Rockley,</hi> as above] About the Month of <hi>July</hi> 1661, the ſaid <hi>Francis Rockley</hi> ſent unto the ſaid <hi>Hayford</hi> to
+<pb n="5" facs="tcp:96023:4"/>return up unto him the aforeſaid Deed of Re-aſſignment of the Truſt which the ſaid <hi>Francis Rock<g ref="char:EOLhyphen"/>ley</hi> had placed in his name, as above; and the ſaid <hi>William Hayford</hi> at the inſtance of, and by com<g ref="char:EOLhyphen"/>bination with the ſaid <hi>Margaret</hi> his Siſter not to return the ſame.</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Refuſed to return it.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. And about</hi> June <hi>or</hi> July 1662. <hi>having managed his practices, as above: He violently ſet up a Title unto the ſaid</hi> Francis Rockleys <hi>Iron works, and the ſtock thereupon to his own uſe, re<g ref="char:EOLhyphen"/>belliouſly withſtanding ſuch perſons as the ſaid</hi> Francis Rockley <hi>had impowered to take poſſeſ<g ref="char:EOLhyphen"/>ſion thereof to his uſe.</hi>
+                  </item>
+                  <item>
+                     <hi>3ly. And about a fortnight after the ſaid</hi> Robert Waller (<hi>under pretence of being Agent for the ſaid Sir</hi> Roger Bradſhagh <hi>upon the ſaid Statute extended</hi>) <hi>placed the ſaid</hi> Hayford <hi>in poſseſſi<g ref="char:EOLhyphen"/>on of the ſame And</hi>
+                     <list>
+                        <item>
+                           <hi>1ſt. The ſaid</hi> Hayford <hi>then commanded all the Workmen belonging to the ſaid Mr.</hi> Rockleys <hi>I<g ref="char:EOLhyphen"/>ron works to atturn unto him, and work as his Servants, upon his own tearms, even to the ruine of ſome of them, and for his uſe; and from that time profeſſedly intituled him<g ref="char:EOLhyphen"/>ſelf to the ſaid Works, with the ſtock and profits of the ſame to his own uſe.</hi>
+                        </item>
+                        <item>
+                           <hi>2ly. And ſhortly after at</hi> Rockley <hi>the ſaid</hi> Hayford <hi>pretending himſelf to one Mr.</hi> Chriſtopher Bradſhagh (<hi>imployed by the ſaid Sir</hi> Roger Bradſhagh) <hi>that at the time when the ſaid</hi> Francis Rockleys <hi>Lands were extended by the ſaid Sir</hi> Roger <hi>he was in poſſeſſion of the ſaid Mannor and Demeaſne of</hi> Rockley, <hi>with the appurtenances, in his own right, by vertue of the ſaid Deed of Re-demiſe made unto him from the ſaid</hi> Brooke <hi>for payment of the aboveſaid</hi> 100 <abbr>
+                              <hi>l.</hi>
+                           </abbr> per annum <hi>to the ſaid</hi> Brooke, <hi>and of the other Deed made unto him from the ſaid Mr.</hi> Rockley <hi>for payment of the ſaid</hi> 100 <abbr>
+                              <hi>l.</hi>
+                           </abbr> per annum <hi>to the ſaid</hi> Brooke, <hi>and for payment of other Debts wherein he ſtood ingaged, mentioned in the ſaid later recited Deed made to him Smothering as well</hi>
+                           <list>
+                              <item>
+                                 <hi>1ſt. The true meaning of the ſaid later mentioned Deed As</hi>
+                              </item>
+                              <item>
+                                 <hi>2ly. The ſaid Deed of Re-aſſignment made from him to the ſaid</hi> Francis Rockley <hi>his Ma<g ref="char:EOLhyphen"/>ſter And</hi>
+                              </item>
+                              <item>
+                                 <hi>3ly. Pretending the ſaid Debts (ſo provided for by the ſaid</hi> Francis Rockley <hi>his Maſter to be diſcharged by the ſaid</hi> Hayford) <hi>to be great.</hi>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <hi>Yet in any one year paſſed which we had with-held the ſaid</hi> Francis Rockleys <hi>his Maſters eſtate from him, he might near hand have paid the ſaid debts (mentio<g ref="char:EOLhyphen"/>ned to be payable by him by the ſaid Deed made to him) remaining then undiſ<g ref="char:EOLhyphen"/>charged out of ſuch eſtate of the ſaid</hi> Francis Rockley, <hi>as was made in his name, without making waſte of any of the ſaid Mr.</hi> Rockleys <hi>woods; or diminiſhing any of the ſaid</hi> Francis Rockleys <hi>ſtock upon his eſtate; or any other of the ſaid</hi> Francis Rockleys <hi>perſonal eſtate committed to the ſaid</hi> Hayford <hi>to keep, for the uſe of the ſaid</hi> Francis Rockley, <hi>which were of much more value than the ſaid Debts (mentioned in the Deed to be payable by him) amounted unto, over and beſides that before that time he had ingroſſed very much more of the ſaid Mr.</hi> Rockley <hi>his Maſters Eſtate into his hands than would have ſatisfied the ſame.</hi>
+               </p>
+               <p>However upon ſuch pretences of the ſaid <hi>Hayfords,</hi> and upon the reputation conferred upon him by the ſaid <hi>Waller</hi> and <hi>Wilkinſon,</hi> and being not long before placed in poſſeſſion of the ſame by the ſaid <hi>Waller</hi> (Sir <hi>Roger Bradſhaws</hi> Attorney in that cauſe) the ſaid <hi>Hayford</hi> was admitted by the ſaid Mr. <hi>Bradſhagh</hi> to be continued in poſſeſſion of the ſaid Iron-works, and the reſt of the ſaid <hi>Francis Rockles</hi> eſtate ſo extended, and placed in his name, as above.</p>
+               <p>He alſo further pretending to the ſaid Mr. <hi>Bradſhagh,</hi> that the Surplus of ſuch profit, as he ſhould raiſe out of ſuch of the ſaid <hi>Francis Rockleys</hi> Eſtate, which he did not pay to the ſaid <hi>Brad<g ref="char:EOLhyphen"/>ſhagh,</hi> nor diſcharge any of the debts mentioned in the ſaid laſt recited Deed (ſo made in his name, as above) he would annually account for to the ſaid Mr. <hi>Rockley</hi> his Maſter.</p>
+               <p>But the ſaid <hi>Hayford,</hi> and his Confederates, or ſome of them, contrary to his fair pretences unto the ſaid <hi>Bradſhagh</hi> (as ſoon as the ſaid <hi>Bradſhagh</hi> was departed thence, living far remote, in another Country)</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Over and beſides that he cut down, and made waſte of the ſaid</hi> Francis Rockleys <hi>woods, at his own will, and converted the ſame to his own uſe.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. By Law ſubjected ſuch of the ſaid Mr.</hi> Rockleys <hi>Tenants of the ſame, unto him, as did not with ceremony own him their Landlord, cauſing them to take the ſame upon hard tearms from him, to the ruine of them.</hi>
+                  </item>
+                  <pb n="6" facs="tcp:96023:5"/>
+                  <item>
+                     <hi>3ly. Neither diſcharged any of the Debts mentioned in the ſaid Deed (made to him, as above) not ſo much as the</hi> 100 <abbr>
+                        <hi>l.</hi>
+                     </abbr> per annum, <hi>payable to the ſaid</hi> Brooke, <hi>and thereby forfeited the ſaid Re-demiſe made from the ſaid</hi> Brooke <hi>in the ſaid</hi> Hayfords <hi>name, for the ſaid</hi> Rockleys <hi>uſe, in further deſign to take the ſame again from the ſaid</hi> Brooke <hi>ſo forfeited, unqueſtionably to ſtate himſelf in a title at Law unto the ſame, without comptrol.</hi>
+                  </item>
+               </list>
+               <p>Only on or about the 29th. day of <hi>June</hi> 1664. he paid of the ſame, the ſum of 20 <abbr>
+                     <hi>l.</hi>
+                  </abbr> to one Mrs. <hi>Heſter Bamforth,</hi> (a perſon unto whom the ſaid <hi>Francis Rockley,</hi> with the ſaid <hi>Hayford</hi> as his ſecurity, ſtood indebted in the ſum of 200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for the payment of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr>) upon tearms with her.</p>
+               <list>
+                  <item>
+                     <hi>1ſt. Not to proſecute him for the reſt of the debt due to her.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. To extend the Lands of the ſaid</hi> Francis Rockley <hi>for the ſame.</hi>
+                  </item>
+                  <item>
+                     <hi>3ly. That She ſhould ſeal to a diſcharge and acknowledgement of the ſaid moneys ſo paid to her by him, in place whereof, by his practice, and her ignorance in affairs of that kind, She was ſurprized by the ſaid</hi> Hayford <hi>to ſeal a General Releaſe to the ſaid</hi> Hayford; <hi>whereby in accounts with the ſaid Mr.</hi> Rockley <hi>his Maſter, he might ſhew an unqueſtionable diſcharge of the whole debt, and put a cheat upon him as well as her.</hi>
+                  </item>
+                  <item>
+                     <hi>4ly. He cauſed one</hi> John Carrington (<hi>the ſole perſon elſe who ſtood oblieged with the ſaid</hi> Francis Rockley <hi>in any of the ſaid debts, he pretended the ſaid later Deed made by the ſaid</hi> Francis Rockley <hi>to him for the diſcharge of) to be proſecuted for ſuch debt as he ſtood ſo oblieged in with the ſaid</hi> Francis Rockley, <hi>and thereby inforced the ſaid</hi> John Carrington <hi>to pay whatſoever could be extorted from him of the ſame.</hi>
+                  </item>
+                  <item>
+                     <hi>4ly. The ſaid</hi> Hayford <hi>did not accommodate the ſaid</hi> Francis Rockley <hi>his Maſter in Priſon (as a<g ref="char:EOLhyphen"/>bove) with one penny out of the ſame, but contrarily</hi>
+                     <list>
+                        <item>
+                           <hi>1ſt. By ſiniſter practices he hindred the ſaid Mr.</hi> Rockley <hi>of each penny he poſſibly could</hi>
+                        </item>
+                        <item>
+                           <hi>2ly. He troubled, threatned trouble, or cauſed trouble to be brought upon all ſuch as looked to<g ref="char:EOLhyphen"/>wards the ſaid Mr.</hi> Rockley <hi>his Maſter,</hi>
+                           <note place="margin">Practiſe ſed by the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>aid Wilkin<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>n to the ru<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap> of ſeveral <gap reason="illegible" resp="#OXF" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>d endea<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>oured by <gap reason="illegible" resp="#OXF" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>im upon o<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#OXF" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ers.</note> 
+                           <hi>in order to the aſſiſtance of him.</hi>
+                        </item>
+                        <item>
+                           <hi>3ly. And in</hi> Michaelmas <hi>Term following,</hi> viz. 1662. <hi>having charged, and cauſed the ſaid</hi> Francis Rockley <hi>his Maſter to be charged with divers actions in priſon (by the ſaid</hi> Wil<g ref="char:EOLhyphen"/>kinſon <hi>his Attorney</hi>) <hi>for ſeveral of thoſe debts (which he pretended the ſaid Deed to be made to him for diſcharge of) which then remained unſatisfied by the ſaid Mr.</hi> Rockley; <hi>he cauſed the ſame to be ſued to Outlawry after Judgement, the ſaid Mr.</hi> Rockley <hi>being by the practice of the ſaid</hi> Wilkinſon <hi>and</hi> Hayford, <hi>as he hopes to make appear, occlud<g ref="char:EOLhyphen"/>ed in a priſon, never to come forth more, and thereby diſabled (being bereft alſo of any thing whatſoever whereby to maintain himſelf) to prevent ſuch proſecution of him.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+               <p>
+                  <hi>Hereupon the ſaid</hi> Francis Rockley, <hi>in</hi> Michaelmas <hi>Term</hi> 1663. <hi>Exhibited a Bill in Chancery againſt the ſaid</hi> Hayford, <hi>for diſcovery of what tytle he had to any of the ſaid</hi> Francis Rockleys <hi>eſtate, and to call him to account for what monies, and other Goods and Chattels he had of the ſaid</hi> Mr. Rockleys <hi>in his hands, and the ſaid</hi> Hayford <hi>made a ſcoffe of the ſame.</hi>
+               </p>
+               <p>
+                  <hi>And pleaded the ſaid Outlawries alſo (as well as other Outlawries, which by want of his e<g ref="char:EOLhyphen"/>ſtate were contracted upon him) which he had ſo brought upon the ſaid Mr.</hi> Rockley, <hi>as above, and thereby abated the ſaid Mr.</hi> Rockleys <hi>proceedings againſt him in his ſaid Suite in Chancery.</hi>
+               </p>
+               <p>And however the ſaid <hi>Francis Rockley</hi> (by Vertue of his Majeſties moſt gracious Writ of <hi>Habeas Corpus</hi> out of the High Court of <hi>Chancery,</hi> having procured his Liberty, in Order to the proſecuti<g ref="char:EOLhyphen"/>on of certain of his affairs) on the Six and Twentieth day of <hi>October</hi> 1665. being come unto his Eſtate in <hi>Yorkſhire,</hi> and finding his Manſion-houſe <hi>Rockley,</hi> and the Demeaſne thereof, with the appurtenances be rio<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſly kep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from him by the ſaid <hi>Hayford</hi> and his Con<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aderates; and inde<g ref="char:EOLhyphen"/>vouring to repoſſeſs himſelf of his ſaid Mannors, Lands, and Eſtate real and perſonal; the ſaid <hi>Hayford</hi> (to eſcape queſtion by the ſaid <hi>Francis Rockley</hi> for ſome crimes he had committed againſt the King as well as againſt him the ſaid <hi>Francis Rockley</hi>) on or about the Firſt day of <hi>January</hi> 1665 made an Aſſignment of his pretended Title unto the ſaid Mannor houſe of <hi>Rockley,</hi> and the De<g ref="char:EOLhyphen"/>meaſnes thereof, with the appurtenances, unto one <hi>John Spencer</hi> of <hi>Cannon Hall</hi> in the County of <hi>York,</hi> Gent.</p>
+               <p>And on or about the 19 of <hi>Jan.</hi> 1665. the ſaid <hi>Hayford</hi> ſeeing that by Perjury and ſubornation of Perjury, Maintainance, Forgery, Barratry, and other ſiniſter practices and combinations of and with the ſaid <hi>Spencer, Wilkinſon,</hi> and others, to keep the ſaid <hi>Spencer,</hi> and others whom he had placed there
+<pb n="7" facs="tcp:96023:5"/>for his uſe, in poſſeſſion of the ſame) he was not like by any, nor by all thoſe means, to hold poſſeſſion, being that upon an Indictment exhibited againſt the ſaid <hi>VVilliam Hayford, Margaret</hi> his Siſter, <hi>John Spencer,</hi> and others, at the General Seſſions of Peace, held at <hi>Doncaſter</hi> on the Seventeenth and Eighteenth days of <hi>January</hi> 1665. the ſaid Confaederates were found Guilty of a forceable Detinue of the ſaid <hi>Francis Rockleys</hi> eſtate from him, and a precept was thereupon awarded to the Sheriff of the County of <hi>York,</hi> for placing the ſaid Mr. <hi>Rockley</hi> in poſſeſſion of the ſame, (though by practice with the ſaid Sheriff, the ſaid Confaederates obſtructed the ſaid <hi>Francis Rock<g ref="char:EOLhyphen"/>ley</hi> from his poſſeſſion thereof.) The ſaid Confaederate; ſuſpecting (notwithſtanding all their pra<g ref="char:EOLhyphen"/>ctices to the contrary) that the ſaid <hi>Francis Rockley</hi> ſhould be then placed in poſſeſſion of the ſame, and ſhould thereby place himſelf, as well in poſſeſſion of his perſonal as his real eſtate, by ver<g ref="char:EOLhyphen"/>tue and under pretence of the above mentioned Judgement of 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for payment of 50 <abbr>
+                     <hi>l.</hi>
+                  </abbr> (where<g ref="char:EOLhyphen"/>upon all the ſaid <hi>Francis Rockleys</hi> perſonal eſtate was levied, as above) within three days time after the ſaid precept ſo awarded to the Sheriff for placing the ſaid Mr. <hi>Rockley</hi> in poſſeſſion.</p>
+               <list>
+                  <item>
+                     <hi>1ſt. The ſaid Confederates carried, or cauſed to be carried away all or most of his ſaid perſonal Eſtate.</hi>
+                  </item>
+                  <item>
+                     <hi>2ly. All the principal Evidence of the ſaid Mr.</hi> Rockleys <hi>his Masters Eſtate, and all his Books of Account there.</hi>
+                  </item>
+               </list>
+               <p>And notwithſtanding their great Combination to prevent the ſaid Mr. <hi>Rockley</hi> from being pla<g ref="char:EOLhyphen"/>ced in poſſeſſion, ſtill fearing the ſame would be placed in him; the ſaid Confaederates alſo cau<g ref="char:EOLhyphen"/>ſed a Leaſe of Ejectment, (they, or ſome of them, having ingroſſed the Deeds which moſt imme<g ref="char:EOLhyphen"/>diately concerned the ſame at Law) to be delivered to the ſaid <hi>Francis Rockley</hi> as of the fore-going Term, for the ſaid Lands, ſo placed in the ſaid <hi>Hayfords</hi> name, as above; thereby endeavouring forthwith to Eject him out of the ſame again, if he ſhould have been placed in poſſeſſion by the Sheriff.</p>
+               <p>And the ſaid Confaederates finding, that after they had obſtructed his Poſſeſſion by the Sheriff, that the ſaid <hi>Francis Rockley</hi> by application to the ſaid <hi>James Brooke</hi> (upon the forfeiture the ſaid <hi>Hayford</hi> had made unto him) indeavoured to procure the ſaid <hi>Brooke</hi> to place him in poſſeſsion again, in the name of one <hi>Thomas Gathorn</hi> of <hi>Rawcliffe,</hi> in the ſame Coun<g ref="char:EOLhyphen"/>ty, Gent. They the ſaid Confaederates, <hi>VVilliam Hayford,</hi> and <hi>John Spencer,</hi> by Combination with the ſaid <hi>James Brooke,</hi> to defeat the ſaid <hi>Francis Rockley</hi> of his Eſtate, obtained the ſaid <hi>Jam<gap reason="illegible" resp="#OXF" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Brooke,</hi> on the  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  Day of  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>  in the year 166<gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap>, to Aſsign the ſame ſo forfeited, and alſo the aforeſaid Statute of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> (for making the above mentioned Demiſe good) unto the ſaid <hi>VVilkinſon</hi> and <hi>Beard</hi> (two perſons unreſponſible for ſo great a charge) for the ſaid <hi>Hayfords</hi> uſe.</p>
+               <list>
+                  <item>
+                     <hi>1ſt.</hi> Though the ſaid <hi>Francis Rockley,</hi> at and before the ſame time, offered a better ſecurity, both for the ſaid <hi>Brookes</hi> rent in arrear, and for what might from time to time grow due unto the ſaid <hi>Brooke</hi> upon the above mentioned agreement made with him, than they the ſaid <hi>VVilkinſon</hi> and <hi>Beard</hi> gave to the ſaid <hi>Brooke</hi> for the ſame. And</item>
+                  <item>
+                     <hi>2ly.</hi> Though the ſaid <hi>Brooke</hi> well knew that he had re-aſsigned the ſame at the original agree<g ref="char:EOLhyphen"/>ment made in <hi>February</hi> 1652. in the name of the ſaid <hi>Hayford,</hi> for the uſe of the ſaid <hi>Francis Rockley.</hi> And</item>
+               </list>
+               <p>And further, That at a General Seſsions of Peace held at <hi>Doncaſter,</hi> on the next foregoing 17. &amp; 18. Days of <hi>January,</hi> before ſuch Grant or Aſsignment made by him unto the ſaid <hi>Beard</hi> and <hi>VVilkinſon,</hi> that the ſaid <hi>Hayford</hi> and <hi>Spencer,</hi> the ſaid <hi>Margaret</hi> and others their Confae<g ref="char:EOLhyphen"/>derates were found Guilty of a forceable and riotous Detinue of the ſaid <hi>Francis Rockley</hi> Manſion houſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with the appurtenances from him, and that a Precept was than <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and that the <gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d <hi>VVilkinſon</hi> and <hi>Beard</hi> at that <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and upon <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ted with the ſaid Riotours, to keep them rioto<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y in ſuch poſſ<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>sion of the ſame <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Yet notwithſtanding the ſaid Aſsignment of the Demeaſne Lands of <hi>Rockley,</hi> &amp;c. and of the ſaid Statute of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> made by the ſaid <hi>Brooke</hi> to the ſaid <hi>Beard</hi> and <hi>VVilkinſon;</hi> the ſame was ſo contrived amongſt the ſaid Confaederates, as that the aforeſaid re-demiſe made by the ſaid <hi>Brooke</hi> to the ſaid <hi>Hayford,</hi> ſhould appear not to be forfeited if occaſion ſhould ſo require.</p>
+               <p>And the ſaid Confaederates, <hi>Spencer, Hayford, VVilkinſon,</hi> and <hi>Beard,</hi> the more ſecurely to keep the ſaid <hi>Francis Rockley</hi> out of poſſeſsion of the ſame, in or about <hi>January</hi> 1666. aſsigned the ſame
+<pb n="8" facs="tcp:96023:6" rendition="simple:additions"/>from one to another, upon new bargains, on pretence of monies made amongſt themſelves, Co<g ref="char:EOLhyphen"/>venanting to make the ſame good, by a greater League to maintain themſelves in, and to keep the ſaid <hi>Francis Rockley</hi> out of the ſame.</p>
+               <p>And to poſſeſs themſelves alſo of all the reſt of the ſaid Mr. <hi>Rockleys</hi> eſtate, the ſaid <hi>VVilkinſon</hi> and <hi>Beard</hi> then deliver Leaſes of Ejectment to all the other Tenants of the ſaid Mr. <hi>Rockley</hi> there, upon the ſaid Statute of 1800 <abbr>
+                     <hi>l.</hi>
+                  </abbr> aſsigned unto them by the ſaid <hi>Brook</hi> to Evict the ſame; threat<g ref="char:EOLhyphen"/>ning to diſ-poſſeſs ſuch of the ſaid Tenants as had or ſhould ſhew themſelves againſt them; and a<g ref="char:EOLhyphen"/>mongſt others, the ſaid <hi>Hayford</hi> being ſtated in a capacity, either to be a party, or a Witneſs, as a<g ref="char:EOLhyphen"/>bove (as occaſion ſhould require) The ſaid <hi>VVilkinſon</hi> and <hi>Beard,</hi> by <hi>Hayfords</hi> falſe teſtimony, wrongfully evicted the ſaid Iron furnace in the hands of the ſaid <hi>Lyonel Copley,</hi> thereby to enforce him alſo to pay the ſaid 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> per Tun, and the arrears thereof, to them; the ſole revenue which the ſaid Mr. <hi>Rockley</hi> then had truly free for his ſubſiſtance being unextendable, being payable only to the ſaid <hi>Francis Rockley</hi> by Covenant, as above.</p>
+               <p>That hereby they the ſaid Confaederates (as the ſaid Mr. <hi>Rockley</hi> is able to Evidence) might be en<g ref="char:EOLhyphen"/>abled by the ſaid Mr. <hi>Rockleys</hi> eſtate, to procure the ſaid Mr. <hi>Rockleys</hi> Creditors to make aſsign<g ref="char:EOLhyphen"/>ment of ſuch Debts as were owing by the ſaid Mr. <hi>Rockley</hi> unto them; thereby to keep him out of his Eſtate by his own Eſtate, though the grounds of all their pretences, <hi>viz.</hi> the Debt payable upon the ſaid Morgage made unto the ſaid <hi>Brooke;</hi> and all other pretenſions they make unto the ſame, are fully ſatisfied, with an Overplus; or the ſaid Confaederates, or ſome of them, have many times told more of the ſaid Mr. <hi>Rockleys</hi> in their hands than will ſatisfie the ſame.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="legal_notice">
+            <p>The CASE and Petition of <hi>Francis Rockley</hi> 
+               <abbr>Eſq</abbr>
+            </p>
+            <p>To be relieved in Parliament, againſt the Confederacy of <hi>VVilliam Hayford</hi> his Servant, with others, to bereave his Maſter of his Eſtate.</p>
+            <pb facs="tcp:96023:6"/>
+         </div>
+      </back>
+   </text>
+</TEI>
